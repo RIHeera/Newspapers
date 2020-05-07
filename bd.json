@@ -18,216 +18,731 @@
     "imageUrl" : "https://i.imgur.com/9ilmvs6.jpg",
     "title" : "আন্তর্জাতিক গণমাধ্যম"
   } ],
-  "sites": [
-    {
-      "title": "Social Site #1",
-      "category": "Social Sites",
-      "isFeatured": "no",
-      "siteImage": "https://firebasestorage.googleapis.com/v0/b/fire-sites.appspot.com/o/social-sites.png?alt=media&token=a1417a5a-dbe5-4f1e-b7f8-12c98a11fca7",
-      "siteUrl": "https://www.google.com/"
-    },
-    {
-      "title": "Social Site #2",
-      "category": "Social Sites",
-      "isFeatured": "yes",
-      "siteImage": "https://firebasestorage.googleapis.com/v0/b/fire-sites.appspot.com/o/social-sites.png?alt=media&token=a1417a5a-dbe5-4f1e-b7f8-12c98a11fca7",
-      "siteUrl": "https://www.google.com/"
-    },
-    {
-      "title": "Social Site #3",
-      "category": "Social Sites",
-      "isFeatured": "no",
-      "siteImage": "https://firebasestorage.googleapis.com/v0/b/fire-sites.appspot.com/o/social-sites.png?alt=media&token=a1417a5a-dbe5-4f1e-b7f8-12c98a11fca7",
-      "siteUrl": "https://www.google.com/"
-    },
-    {
-      "title": "Social Site #4",
-      "category": "Social Sites",
-      "isFeatured": "no",
-      "siteImage": "https://firebasestorage.googleapis.com/v0/b/fire-sites.appspot.com/o/social-sites.png?alt=media&token=a1417a5a-dbe5-4f1e-b7f8-12c98a11fca7",
-      "siteUrl": "https://www.google.com/"
-    },
-    {
-      "title": "Social Site #5",
-      "category": "Social Sites",
-      "isFeatured": "no",
-      "siteImage": "https://firebasestorage.googleapis.com/v0/b/fire-sites.appspot.com/o/social-sites.png?alt=media&token=a1417a5a-dbe5-4f1e-b7f8-12c98a11fca7",
-      "siteUrl": "https://www.google.com/"
-    },
-    {
-      "title": "Newspaper Site #1",
-      "category": "Newspapers",
-      "isFeatured": "yes",
-      "siteImage": "https://firebasestorage.googleapis.com/v0/b/fire-sites.appspot.com/o/newspapers.png?alt=media&token=cf9fc526-7d82-4678-a639-662a22bfb9c2",
-      "siteUrl": "https://www.google.com/"
-    },
-    {
-      "title": "Newspaper Site #2",
-      "category": "Newspapers",
-      "isFeatured": "no",
-      "siteImage": "https://firebasestorage.googleapis.com/v0/b/fire-sites.appspot.com/o/newspapers.png?alt=media&token=cf9fc526-7d82-4678-a639-662a22bfb9c2",
-      "siteUrl": "https://www.google.com/"
-    },
-    {
-      "title": "Newspaper Site #3",
-      "category": "Newspapers",
-      "isFeatured": "no",
-      "siteImage": "https://firebasestorage.googleapis.com/v0/b/fire-sites.appspot.com/o/newspapers.png?alt=media&token=cf9fc526-7d82-4678-a639-662a22bfb9c2",
-      "siteUrl": "https://www.google.com/"
-    },
-    {
-      "title": "Newspaper Site #4",
-      "category": "Newspapers",
-      "isFeatured": "yes",
-      "siteImage": "https://firebasestorage.googleapis.com/v0/b/fire-sites.appspot.com/o/newspapers.png?alt=media&token=cf9fc526-7d82-4678-a639-662a22bfb9c2",
-      "siteUrl": "https://www.google.com/"
-    },
-    {
-      "title": "Newspaper Site #5",
-      "category": "Newspapers",
-      "isFeatured": "no",
-      "siteImage": "https://firebasestorage.googleapis.com/v0/b/fire-sites.appspot.com/o/newspapers.png?alt=media&token=cf9fc526-7d82-4678-a639-662a22bfb9c2",
-      "siteUrl": "https://www.google.com/"
-    },
-    {
-      "title": "Newspaper Site #6",
-      "category": "Newspapers",
-      "isFeatured": "no",
-      "siteImage": "https://firebasestorage.googleapis.com/v0/b/fire-sites.appspot.com/o/newspapers.png?alt=media&token=cf9fc526-7d82-4678-a639-662a22bfb9c2",
-      "siteUrl": "https://www.google.com/"
-    },
-    {
-      "title": "Magazine Site #1",
-      "category": "Magazines",
-      "isFeatured": "no",
-      "siteImage": "https://firebasestorage.googleapis.com/v0/b/fire-sites.appspot.com/o/magazines.png?alt=media&token=855a5842-a4cf-4461-96f8-a309c063e64e",
-      "siteUrl": "https://www.google.com/"
-    },
-    {
-      "title": "Magazine Site #2",
-      "category": "Magazines",
-      "isFeatured": "no",
-      "siteImage": "https://firebasestorage.googleapis.com/v0/b/fire-sites.appspot.com/o/magazines.png?alt=media&token=855a5842-a4cf-4461-96f8-a309c063e64e",
-      "siteUrl": "https://www.google.com/"
-    },
-    {
-      "title": "Magazine Site #3",
-      "category": "Magazines",
-      "isFeatured": "yes",
-      "siteImage": "https://firebasestorage.googleapis.com/v0/b/fire-sites.appspot.com/o/magazines.png?alt=media&token=855a5842-a4cf-4461-96f8-a309c063e64e",
-      "siteUrl": "https://www.google.com/"
-    },
-    {
-      "title": "Magazine Site #4",
-      "category": "Magazines",
-      "isFeatured": "no",
-      "siteImage": "https://firebasestorage.googleapis.com/v0/b/fire-sites.appspot.com/o/magazines.png?alt=media&token=855a5842-a4cf-4461-96f8-a309c063e64e",
-      "siteUrl": "https://www.google.com/"
-    },
-    {
-      "title": "Life Hacks #1",
-      "category": "Life Hacks",
-      "isFeatured": "no",
-      "siteImage": "https://firebasestorage.googleapis.com/v0/b/fire-sites.appspot.com/o/life_hacks.png?alt=media&token=2a7982b9-19bb-4b2e-a500-f517f037c7fc",
-      "siteUrl": "https://www.google.com/"
-    },
-    {
-      "title": "Life Hacks #2",
-      "category": "Life Hacks",
-      "isFeatured": "no",
-      "siteImage": "https://firebasestorage.googleapis.com/v0/b/fire-sites.appspot.com/o/life_hacks.png?alt=media&token=2a7982b9-19bb-4b2e-a500-f517f037c7fc",
-      "siteUrl": "https://www.google.com/"
-    },
-    {
-      "title": "Life Hacks #3",
-      "category": "Life Hacks",
-      "isFeatured": "no",
-      "siteImage": "https://firebasestorage.googleapis.com/v0/b/fire-sites.appspot.com/o/life_hacks.png?alt=media&token=2a7982b9-19bb-4b2e-a500-f517f037c7fc",
-      "siteUrl": "https://www.google.com/"
-    },
-    {
-      "title": "Life Hacks #4",
-      "category": "Life Hacks",
-      "isFeatured": "no",
-      "siteImage": "https://firebasestorage.googleapis.com/v0/b/fire-sites.appspot.com/o/life_hacks.png?alt=media&token=2a7982b9-19bb-4b2e-a500-f517f037c7fc",
-      "siteUrl": "https://www.google.com/"
-    },
-    {
-      "title": "Life Hacks #5",
-      "category": "Life Hacks",
-      "isFeatured": "yes",
-      "siteImage": "https://firebasestorage.googleapis.com/v0/b/fire-sites.appspot.com/o/life_hacks.png?alt=media&token=2a7982b9-19bb-4b2e-a500-f517f037c7fc",
-      "siteUrl": "https://www.google.com/"
-    },
-    {
-      "title": "Blog Site #1",
-      "category": "Blogs",
-      "isFeatured": "no",
-      "siteImage": "https://firebasestorage.googleapis.com/v0/b/fire-sites.appspot.com/o/blogs.png?alt=media&token=108278b3-8337-44b2-b366-2019a142a7e4",
-      "siteUrl": "https://www.google.com/"
-    },
-    {
-      "title": "Blog Site #2",
-      "category": "Blogs",
-      "isFeatured": "no",
-      "siteImage": "https://firebasestorage.googleapis.com/v0/b/fire-sites.appspot.com/o/blogs.png?alt=media&token=108278b3-8337-44b2-b366-2019a142a7e4",
-      "siteUrl": "https://www.google.com/"
-    },
-    {
-      "title": "Blog Site #3",
-      "category": "Blogs",
-      "isFeatured": "no",
-      "siteImage": "https://firebasestorage.googleapis.com/v0/b/fire-sites.appspot.com/o/blogs.png?alt=media&token=108278b3-8337-44b2-b366-2019a142a7e4",
-      "siteUrl": "https://www.google.com/"
-    },
-    {
-      "title": "Blog Site #4",
-      "category": "Blogs",
-      "isFeatured": "no",
-      "siteImage": "https://firebasestorage.googleapis.com/v0/b/fire-sites.appspot.com/o/blogs.png?alt=media&token=108278b3-8337-44b2-b366-2019a142a7e4",
-      "siteUrl": "https://www.google.com/"
-    },
-    {
-      "title": "Blog Site #5",
-      "category": "Blogs",
-      "isFeatured": "yes",
-      "siteImage": "https://firebasestorage.googleapis.com/v0/b/fire-sites.appspot.com/o/blogs.png?alt=media&token=108278b3-8337-44b2-b366-2019a142a7e4",
-      "siteUrl": "https://www.google.com/"
-    },
-    {
-      "title": "Blog Site #6",
-      "category": "Blogs",
-      "isFeatured": "no",
-      "siteImage": "https://firebasestorage.googleapis.com/v0/b/fire-sites.appspot.com/o/blogs.png?alt=media&token=108278b3-8337-44b2-b366-2019a142a7e4",
-      "siteUrl": "https://www.google.com/"
-    },
-    {
-      "title": "Blog Site #7",
-      "category": "Blogs",
-      "isFeatured": "no",
-      "siteImage": "https://firebasestorage.googleapis.com/v0/b/fire-sites.appspot.com/o/blogs.png?alt=media&token=108278b3-8337-44b2-b366-2019a142a7e4",
-      "siteUrl": "https://www.google.com/"
-    },
-    {
-      "title": "About Page #1",
-      "category": "About Us pages",
-      "isFeatured": "no",
-      "siteImage": "https://firebasestorage.googleapis.com/v0/b/fire-sites.appspot.com/o/about_us_pages.png?alt=media&token=b5dc0f22-4ae7-4792-a99e-2d7011b044f5",
-      "siteUrl": "https://www.google.com/"
-    },
-    {
-      "title": "About Page #2",
-      "category": "About Us pages",
-      "isFeatured": "yes",
-      "siteImage": "https://firebasestorage.googleapis.com/v0/b/fire-sites.appspot.com/o/about_us_pages.png?alt=media&token=b5dc0f22-4ae7-4792-a99e-2d7011b044f5",
-      "siteUrl": "https://www.google.com/"
-    },
-    {
-      "title": "About Page #3",
-      "category": "About Us pages",
-      "isFeatured": "no",
-      "siteImage": "https://firebasestorage.googleapis.com/v0/b/fire-sites.appspot.com/o/about_us_pages.png?alt=media&token=b5dc0f22-4ae7-4792-a99e-2d7011b044f5",
-      "siteUrl": "https://www.google.com/"
-    }
-  ]
+  "sites" : [ {
+    "category" : "জাতীয় দৈনিক (বাংলা)",
+    "isFeatured" : "no",
+    "siteImage" : "https://i.imgur.com/2g2Mwrx.jpg",
+    "siteUrl" : "https://prothomalo.com/",
+    "title" : "প্রথম আলো"
+  }, {
+    "category" : "জাতীয় দৈনিক (বাংলা)",
+    "isFeatured" : "no",
+    "siteImage" : "https://i.imgur.com/66jWOb6.png",
+    "siteUrl" : "http://m.mzamin.com",
+    "title" : "মানবজমিন"
+  }, {
+    "category" : "জাতীয় দৈনিক (বাংলা)",
+    "isFeatured" : "no",
+    "siteImage" : "https://i.imgur.com/FKT1SGX.png",
+    "siteUrl" : "http://www.ittefaq.com.bd",
+    "title" : "ইত্তেফাক"
+  }, {
+    "category" : "জাতীয় দৈনিক (বাংলা)",
+    "isFeatured" : "no",
+    "siteImage" : "https://i.imgur.com/TB00BR5.png",
+    "siteUrl" : "http://www.dailyinqilab.com",
+    "title" : "ইনকিলাব"
+  }, {
+    "category" : "জাতীয় দৈনিক (বাংলা)",
+    "isFeatured" : "no",
+    "siteImage" : "https://i.imgur.com/wroaJqa.png",
+    "siteUrl" : "http://www.jugantor.com",
+    "title" : "যুগান্তর"
+  }, {
+    "category" : "জাতীয় দৈনিক (বাংলা)",
+    "isFeatured" : "no",
+    "siteImage" : "https://i.imgur.com/7fmPphT.png",
+    "siteUrl" : "http://samakal.com",
+    "title" : "সমকাল"
+  }, {
+    "category" : "জাতীয় দৈনিক (বাংলা)",
+    "isFeatured" : "no",
+    "siteImage" : "https://i.imgur.com/aFnAmMF.png",
+    "siteUrl" : "http://www.dainikamadershomoy.com",
+    "title" : "আমাদের সময়"
+  }, {
+    "category" : "জাতীয় দৈনিক (বাংলা)",
+    "isFeatured" : "no",
+    "siteImage" : "https://i.imgur.com/0FU02JV.png",
+    "siteUrl" : "http://www.dailynayadiganta.com",
+    "title" : "নয়া দিগন্ত"
+  }, {
+    "category" : "জাতীয় দৈনিক (বাংলা)",
+    "isFeatured" : "no",
+    "siteImage" : "https://i.imgur.com/FXWVaxp.png",
+    "siteUrl" : "http://www.kalerkantho.com",
+    "title" : "কালের কণ্ঠ"
+  }, {
+    "category" : "জাতীয় দৈনিক (বাংলা)",
+    "isFeatured" : "no",
+    "siteImage" : "https://i.imgur.com/07JMYCZ.png",
+    "siteUrl" : "http://www.dailyjanakantha.com",
+    "title" : "জনকণ্ঠ"
+  }, {
+    "category" : "জাতীয় দৈনিক (বাংলা)",
+    "isFeatured" : "no",
+    "siteImage" : "https://i.imgur.com/YZK1k9c.png",
+    "siteUrl" : "http://www.bd-pratidin.com",
+    "title" : "বাংলাদেশ প্রতিদিন"
+  }, {
+    "category" : "জাতীয় দৈনিক (বাংলা)",
+    "isFeatured" : "no",
+    "siteImage" : "https://i.imgur.com/vwCRr4V.png",
+    "siteUrl" : "http://www.bhorerkagoj.com",
+    "title" : "ভোরের কাগজ"
+  }, {
+    "category" : "জাতীয় দৈনিক (বাংলা)",
+    "isFeatured" : "no",
+    "siteImage" : "https://i.imgur.com/G1VHXfU.png",
+    "siteUrl" : "http://www.manobkantha.com.bd",
+    "title" : "মানবকণ্ঠ"
+  }, {
+    "category" : "জাতীয় দৈনিক (বাংলা)",
+    "isFeatured" : "no",
+    "siteImage" : "https://i.imgur.com/yFzCcJE.png",
+    "siteUrl" : "http://thesangbad.net",
+    "title" : "সংবাদ"
+  }, {
+    "category" : "জাতীয় দৈনিক (বাংলা)",
+    "isFeatured" : "no",
+    "siteImage" : "https://i.imgur.com/hhE8Xjw.png",
+    "siteUrl" : "http://www.jaijaidinbd.com",
+    "title" : "যায়যায়দিন"
+  }, {
+    "category" : "জাতীয় দৈনিক (বাংলা)",
+    "isFeatured" : "no",
+    "siteImage" : "https://i.imgur.com/B3OIlZX.png",
+    "siteUrl" : "http://dainik-destiny.com",
+    "title" : "ডেসটিনি"
+  }, {
+    "category" : "জাতীয় দৈনিক (বাংলা)",
+    "isFeatured" : "no",
+    "siteImage" : "https://i.imgur.com/5cfDbOQ.png",
+    "siteUrl" : "http://www.alokitobangladesh.com",
+    "title" : "আলোকিত বাংলাদেশ"
+  }, {
+    "category" : "জাতীয় দৈনিক (বাংলা)",
+    "isFeatured" : "no",
+    "siteImage" : "https://i.imgur.com/sVoJRGu.png",
+    "siteUrl" : "http://amaderorthoneeti.com",
+    "title" : "আমাদের অর্থনীতি"
+  }, {
+    "category" : "জাতীয় দৈনিক (বাংলা)",
+    "isFeatured" : "no",
+    "siteImage" : "https://i.imgur.com/CvPjdpZ.png",
+    "siteUrl" : "http://dainikazadi.net",
+    "title" : "আজাদী"
+  }, {
+    "category" : "জাতীয় দৈনিক (বাংলা)",
+    "isFeatured" : "no",
+    "siteImage" : "https://i.imgur.com/gLsaJTm.png",
+    "siteUrl" : "http://www.dainikpurbokone.net",
+    "title" : "দৈনিক পূর্বকোণ"
+  }, {
+    "category" : "জাতীয় দৈনিক (বাংলা)",
+    "isFeatured" : "no",
+    "siteImage" : "https://i.imgur.com/Hmfq7mi.png",
+    "siteUrl" : "http://www.ajkerpatrika.com",
+    "title" : "আজকের পত্রিকা"
+  }, {
+    "category" : "জাতীয় দৈনিক (বাংলা)",
+    "isFeatured" : "no",
+    "siteImage" : "https://i.imgur.com/0Yt3I4s.jpg",
+    "siteUrl" : "http://www.gonokantho.com",
+    "title" : "গণকণ্ঠ"
+  }, {
+    "category" : "জাতীয় দৈনিক (বাংলা)",
+    "isFeatured" : "no",
+    "siteImage" : "https://i.imgur.com/h0Dm6VW.png",
+    "siteUrl" : "http://www.bd-journal.com",
+    "title" : "বাংলাদেশ জার্নাল"
+  }, {
+    "category" : "জাতীয় দৈনিক (বাংলা)",
+    "isFeatured" : "no",
+    "siteImage" : "https://i.imgur.com/x5zjJCn.png",
+    "siteUrl" : "http://www.ajkalerkhobor.com",
+    "title" : "আজকালের খবর"
+  }, {
+    "category" : "জাতীয় দৈনিক (বাংলা)",
+    "isFeatured" : "no",
+    "siteImage" : "https://i.imgur.com/ic9Q8Rh.png",
+    "siteUrl" : "http://www.amar-sangbad.com",
+    "title" : "আমার সংবাদ"
+  }, {
+    "category" : "জাতীয় দৈনিক (বাংলা)",
+    "isFeatured" : "no",
+    "siteImage" : "https://i.imgur.com/27be2kv.png",
+    "siteUrl" : "http://www.dailyjagaran.com",
+    "title" : "দৈনিক জাগরণ"
+  }, {
+    "category" : "জাতীয় দৈনিক (বাংলা)",
+    "isFeatured" : "no",
+    "siteImage" : "https://i.imgur.com/28DnKyx.jpg",
+    "siteUrl" : "http://bhorer-dak.com",
+    "title" : "ভোরের ডাক"
+  }, {
+    "category" : "জাতীয় দৈনিক (বাংলা)",
+    "isFeatured" : "no",
+    "siteImage" : "https://i.imgur.com/mtBojbX.png",
+    "siteUrl" : "http://www.bangladesherkhabor.net",
+    "title" : "বাংলাদেশের খবর"
+  }, {
+    "category" : "জাতীয় দৈনিক (বাংলা)",
+    "isFeatured" : "no",
+    "siteImage" : "https://i.imgur.com/KXjey1o.png",
+    "siteUrl" : "http://www.deshrupantor.com",
+    "title" : "দেশ রূপান্তর"
+  }, {
+    "category" : "জাতীয় দৈনিক (বাংলা)",
+    "isFeatured" : "no",
+    "siteImage" : "https://i.imgur.com/wdq2IhZ.jpg",
+    "siteUrl" : "http://www.shomoyeralo.com",
+    "title" : "সময়ের আলো"
+  }, {
+    "category" : "জাতীয় দৈনিক (ইংরেজী)",
+    "isFeatured" : "no",
+    "siteImage" : "https://i.imgur.com/p558Ej4.png",
+    "siteUrl" : "http://www.thedailystar.net",
+    "title" : "Daily Star"
+  }, {
+    "category" : "জাতীয় দৈনিক (ইংরেজী)",
+    "isFeatured" : "no",
+    "siteImage" : "https://i.imgur.com/i04NuqH.png",
+    "siteUrl" : "http://www.daily-sun.com",
+    "title" : "Daily Sun"
+  }, {
+    "category" : "জাতীয় দৈনিক (ইংরেজী)",
+    "isFeatured" : "no",
+    "siteImage" : "https://i.imgur.com/Say86rs.png",
+    "siteUrl" : "http://www.newagebd.net",
+    "title" : "New Age"
+  }, {
+    "category" : "জাতীয় দৈনিক (ইংরেজী)",
+    "isFeatured" : "no",
+    "siteImage" : "https://i.imgur.com/6v7B53H.png",
+    "siteUrl" : "http://dailyasianage.com",
+    "title" : "The Asian Age"
+  }, {
+    "category" : "জাতীয় দৈনিক (ইংরেজী)",
+    "isFeatured" : "no",
+    "siteImage" : "https://i.imgur.com/ovv7ZH4.png",
+    "siteUrl" : "http://thefinancialexpress.com.bd",
+    "title" : "Financial Express"
+  }, {
+    "category" : "জাতীয় দৈনিক (ইংরেজী)",
+    "isFeatured" : "no",
+    "siteImage" : "https://i.imgur.com/5J7fwsk.png",
+    "siteUrl" : "http://www.observerbd.com",
+    "title" : "Daily Observer"
+  }, {
+    "category" : "জাতীয় দৈনিক (ইংরেজী)",
+    "isFeatured" : "no",
+    "siteImage" : "https://i.imgur.com/RWOl5X2.png",
+    "siteUrl" : "http://thebangladeshtoday.com",
+    "title" : "Bangladesh Today"
+  }, {
+    "category" : "জাতীয় দৈনিক (ইংরেজী)",
+    "isFeatured" : "no",
+    "siteImage" : "https://i.imgur.com/2OKzHX5.gif",
+    "siteUrl" : "http://newstoday.com.bd",
+    "title" : "News Today"
+  }, {
+    "category" : "জাতীয় দৈনিক (ইংরেজী)",
+    "isFeatured" : "no",
+    "siteImage" : "https://i.imgur.com/ijNL5HY.png",
+    "siteUrl" : "http://thedailynewnation.com",
+    "title" : "New Nation"
+  }, {
+    "category" : "জাতীয় দৈনিক (ইংরেজী)",
+    "isFeatured" : "no",
+    "siteImage" : "https://i.imgur.com/6oXVXa3.jpg",
+    "siteUrl" : "http://www.theindependentbd.com",
+    "title" : "The Independent"
+  }, {
+    "category" : "জাতীয় দৈনিক (ইংরেজী)",
+    "isFeatured" : "no",
+    "siteImage" : "https://i.imgur.com/gdM4n1B.png",
+    "siteUrl" : "http://www.dhakatribune.com",
+    "title" : "Dhaka Tribune"
+  }, {
+    "category" : "জাতীয় দৈনিক (ইংরেজী)",
+    "isFeatured" : "no",
+    "siteImage" : "https://i.imgur.com/xGvDkoh.jpg",
+    "siteUrl" : "http://www.ourtimebd.com",
+    "title" : "Our Time"
+  }, {
+    "category" : "টেলিভিশন মিডিয়া",
+    "isFeatured" : "no",
+    "siteImage" : "https://i.imgur.com/pWWdqQ6.png",
+    "siteUrl" : "http://www.channelionline.com",
+    "title" : "চ্যানেল আই"
+  }, {
+    "category" : "টেলিভিশন মিডিয়া",
+    "isFeatured" : "no",
+    "siteImage" : "https://i.imgur.com/EwvqhTr.png",
+    "siteUrl" : "http://www.ntvbd.com",
+    "title" : "এনটিভি"
+  }, {
+    "category" : "টেলিভিশন মিডিয়া",
+    "isFeatured" : "no",
+    "siteImage" : "https://i.imgur.com/1dOx9fv.png",
+    "siteUrl" : "http://www.ekushey-tv.com",
+    "title" : "একুশে"
+  }, {
+    "category" : "টেলিভিশন মিডিয়া",
+    "isFeatured" : "no",
+    "siteImage" : "https://i.imgur.com/Ks8IOxZ.png",
+    "siteUrl" : "http://www.independent24.com",
+    "title" : "ইনডিপেনডেন্ট"
+  }, {
+    "category" : "টেলিভিশন মিডিয়া",
+    "isFeatured" : "no",
+    "siteImage" : "https://i.imgur.com/6oyt9bD.png",
+    "siteUrl" : "http://www.rtvonline.com",
+    "title" : "আরটিভি"
+  }, {
+    "category" : "টেলিভিশন মিডিয়া",
+    "isFeatured" : "no",
+    "siteImage" : "https://i.imgur.com/uB7HdTN.png",
+    "siteUrl" : "http://www.somoynews.tv",
+    "title" : "সময় নিউজ"
+  }, {
+    "category" : "টেলিভিশন মিডিয়া",
+    "isFeatured" : "no",
+    "siteImage" : "https://i.imgur.com/s85UZ9Y.png",
+    "siteUrl" : "http://www.boishakhionline.com",
+    "title" : "বৈশাখী"
+  }, {
+    "category" : "টেলিভিশন মিডিয়া",
+    "isFeatured" : "no",
+    "siteImage" : "https://i.imgur.com/aDSEYAi.jpg",
+    "siteUrl" : "http://www.jamuna.tv",
+    "title" : "যমুনা"
+  }, {
+    "category" : "টেলিভিশন মিডিয়া",
+    "isFeatured" : "no",
+    "siteImage" : "https://i.imgur.com/ERhL8ol.png",
+    "siteUrl" : "http://www.satv.tv",
+    "title" : "এস এ টিভি"
+  }, {
+    "category" : "টেলিভিশন মিডিয়া",
+    "isFeatured" : "no",
+    "siteImage" : "https://i.imgur.com/Pjxj9PJ.png",
+    "siteUrl" : "http://banglavision.tv",
+    "title" : "বাংলাভিশন"
+  }, {
+    "category" : "টেলিভিশন মিডিয়া",
+    "isFeatured" : "no",
+    "siteImage" : "https://i.imgur.com/oVjFJLg.png",
+    "siteUrl" : "http://ekattor.tv",
+    "title" : "একাত্তর"
+  }, {
+    "category" : "টেলিভিশন মিডিয়া",
+    "isFeatured" : "no",
+    "siteImage" : "https://i.imgur.com/BX18Vx1.png",
+    "siteUrl" : "http://www.channel24bd.tv",
+    "title" : "চ্যানেল ২৪"
+  }, {
+    "category" : "টেলিভিশন মিডিয়া",
+    "isFeatured" : "no",
+    "siteImage" : "https://i.imgur.com/puvniRX.png",
+    "siteUrl" : "http://www.news24bd.tv",
+    "title" : "নিউজ ২৪"
+  }, {
+    "category" : "টেলিভিশন মিডিয়া",
+    "isFeatured" : "no",
+    "siteImage" : "https://i.imgur.com/BhrvQre.png",
+    "siteUrl" : "http://desh.tv",
+    "title" : "দেশ টিভি"
+  }, {
+    "category" : "অনলাইন পত্রিকা",
+    "isFeatured" : "no",
+    "siteImage" : "https://i.imgur.com/FoGgoMs.png",
+    "siteUrl" : "http://bangla.bdnews24.com/",
+    "title" : "বিডিনিউজ ২৪"
+  }, {
+    "category" : "অনলাইন পত্রিকা",
+    "isFeatured" : "no",
+    "siteImage" : "https://i.imgur.com/huDr7zl.png",
+    "siteUrl" : "http://www.banglanews24.com/",
+    "title" : "বাংলানিউজ ২৪"
+  }, {
+    "category" : "অনলাইন পত্রিকা",
+    "isFeatured" : "no",
+    "siteImage" : "https://i.imgur.com/RcD8xog.png",
+    "siteUrl" : "http://www.bbc.com/bengali",
+    "title" : "বিবিসি বাংলা"
+  }, {
+    "category" : "অনলাইন পত্রিকা",
+    "isFeatured" : "no",
+    "siteImage" : "https://i.imgur.com/ULheGYD.png",
+    "siteUrl" : "http://www.voabangla.com/",
+    "title" : "ভয়েস অব আমেরিকা (বাংলা)"
+  }, {
+    "category" : "অনলাইন পত্রিকা",
+    "isFeatured" : "no",
+    "siteImage" : "https://i.imgur.com/RPscHgL.png",
+    "siteUrl" : "http://www.bdmorning.com/",
+    "title" : "বিডি মর্নিং"
+  }, {
+    "category" : "অনলাইন পত্রিকা",
+    "isFeatured" : "no",
+    "siteImage" : "https://i.imgur.com/j0A2zxF.png",
+    "siteUrl" : "http://bartabangla.com/",
+    "title" : "বার্তা বাংলা"
+  }, {
+    "category" : "অনলাইন পত্রিকা",
+    "isFeatured" : "no",
+    "siteImage" : "https://i.imgur.com/RHNy2NA.png",
+    "siteUrl" : "http://www.banglatribune.com/",
+    "title" : "বাংলা ট্রিবিউন"
+  }, {
+    "category" : "অনলাইন পত্রিকা",
+    "isFeatured" : "no",
+    "siteImage" : "https://i.imgur.com/W8avVC6.png",
+    "siteUrl" : "http://bangladeshtoday.net/",
+    "title" : "বাংলাদেশ টুডে"
+  }, {
+    "category" : "অনলাইন পত্রিকা",
+    "isFeatured" : "no",
+    "siteImage" : "https://i.imgur.com/9MGkup5.png",
+    "siteUrl" : "http://www.jagonews24.com/",
+    "title" : "জাগো নিউজ"
+  }, {
+    "category" : "অনলাইন পত্রিকা",
+    "isFeatured" : "no",
+    "siteImage" : "https://i.imgur.com/fEklf6v.png",
+    "siteUrl" : "http://risingbd.com/",
+    "title" : "রাইজিং বিডি"
+  }, {
+    "category" : "অনলাইন পত্রিকা",
+    "isFeatured" : "no",
+    "siteImage" : "https://i.imgur.com/JphBSNa.png",
+    "siteUrl" : "http://barta24.com/",
+    "title" : "বার্তা ২৪"
+  }, {
+    "category" : "অনলাইন পত্রিকা",
+    "isFeatured" : "no",
+    "siteImage" : "https://i.imgur.com/FSeQA96.png",
+    "siteUrl" : "http://bartabazar.com/",
+    "title" : "বার্তা বাজার"
+  }, {
+    "category" : "অনলাইন পত্রিকা",
+    "isFeatured" : "no",
+    "siteImage" : "https://i.imgur.com/QAlyi0x.png",
+    "siteUrl" : "http://www.banglatelegraph.com/",
+    "title" : "বাংলা টেলিগ্রাফ"
+  }, {
+    "category" : "অনলাইন পত্রিকা",
+    "isFeatured" : "no",
+    "siteImage" : "https://i.imgur.com/HrbjGS3.png",
+    "siteUrl" : "http://bangladeshpress.com.bd/",
+    "title" : "বাংলাদেশ প্রেস"
+  }, {
+    "category" : "অনলাইন পত্রিকা",
+    "isFeatured" : "no",
+    "siteImage" : "https://i.imgur.com/1W5NNeP.png",
+    "siteUrl" : "http://www.daily-bangladesh.com/",
+    "title" : "ডেইলি বাংলাদেশ"
+  }, {
+    "category" : "অনলাইন পত্রিকা",
+    "isFeatured" : "no",
+    "siteImage" : "https://i.imgur.com/YSZH8sJ.png",
+    "siteUrl" : "http://www.dhakatimes24.com/",
+    "title" : "ঢাকা টাইমস"
+  }, {
+    "category" : "অনলাইন পত্রিকা",
+    "isFeatured" : "no",
+    "siteImage" : "https://i.imgur.com/LqJUkId.png",
+    "siteUrl" : "http://somoyerdhara.com/",
+    "title" : "সময়ের ধারা"
+  }, {
+    "category" : "অনলাইন পত্রিকা",
+    "isFeatured" : "no",
+    "siteImage" : "https://i.imgur.com/5xC2HPn.png",
+    "siteUrl" : "http://www.nirapadnews.com/",
+    "title" : "নিরাপদ নিউজ"
+  }, {
+    "category" : "অনলাইন পত্রিকা",
+    "isFeatured" : "no",
+    "siteImage" : "https://i.imgur.com/REGqHqd.png",
+    "siteUrl" : "http://insaf24.com/",
+    "title" : "ইনসাফ"
+  }, {
+    "category" : "অনলাইন পত্রিকা",
+    "isFeatured" : "no",
+    "siteImage" : "https://i.imgur.com/hqwy5yW.png",
+    "siteUrl" : "http://www.ppbd.news/",
+    "title" : "পূর্ব-পশ্চিম"
+  }, {
+    "category" : "অনলাইন পত্রিকা",
+    "isFeatured" : "no",
+    "siteImage" : "https://i.imgur.com/IdRKm8l.png",
+    "siteUrl" : "http://www.gonews24.com/",
+    "title" : "গো নিউজ"
+  }, {
+    "category" : "অনলাইন পত্রিকা",
+    "isFeatured" : "no",
+    "siteImage" : "https://i.imgur.com/SKe8l99.png",
+    "siteUrl" : "http://www.natunsomoy.net/",
+    "title" : "নতুন সময়"
+  }, {
+    "category" : "অনলাইন পত্রিকা",
+    "isFeatured" : "no",
+    "siteImage" : "https://i.imgur.com/jR5BLDM.png",
+    "siteUrl" : "http://www.al-ihsan.net/",
+    "title" : "আল ইহসান"
+  }, {
+    "category" : "অনলাইন পত্রিকা",
+    "isFeatured" : "no",
+    "siteImage" : "https://i.imgur.com/ersusR5.png",
+    "siteUrl" : "http://roar.media/bangla/",
+    "title" : "রোর বাংলা"
+  }, {
+    "category" : "অনলাইন পত্রিকা",
+    "isFeatured" : "no",
+    "siteImage" : "https://i.imgur.com/PNetojC.png",
+    "siteUrl" : "http://hawker.com.bd/",
+    "title" : "হকার নিউজ"
+  }, {
+    "category" : "অনলাইন পত্রিকা",
+    "isFeatured" : "no",
+    "siteImage" : "https://i.imgur.com/SfOb4md.png",
+    "siteUrl" : "http://www.breakingnews.com.bd/",
+    "title" : "ব্রেকিং নিউজ বিডি"
+  }, {
+    "category" : "অনলাইন পত্রিকা",
+    "isFeatured" : "no",
+    "siteImage" : "https://i.imgur.com/zRygxrz.png",
+    "siteUrl" : "http://aloavanews24.com/",
+    "title" : "আলো আভা"
+  }, {
+    "category" : "অনলাইন পত্রিকা",
+    "isFeatured" : "no",
+    "siteImage" : "https://i.imgur.com/iA9CQbN.png",
+    "siteUrl" : "http://a1news24.com/",
+    "title" : "A1 নিউজ"
+  }, {
+    "category" : "অর্থনীতি ও শেয়ার বাজার",
+    "isFeatured" : "no",
+    "siteImage" : "https://i.imgur.com/broXGGq.png",
+    "siteUrl" : "http://www.dsebd.org",
+    "title" : "ঢাকা স্টক এক্সচেঞ্জ"
+  }, {
+    "category" : "অর্থনীতি ও শেয়ার বাজার",
+    "isFeatured" : "no",
+    "siteImage" : "https://i.imgur.com/TYUzM59.png",
+    "siteUrl" : "http://www.cse.com.bd",
+    "title" : "চট্টগ্রাম স্টক এক্সচেঞ্জ"
+  }, {
+    "category" : "অর্থনীতি ও শেয়ার বাজার",
+    "isFeatured" : "no",
+    "siteImage" : "https://i.imgur.com/TrqbmKg.png",
+    "siteUrl" : "http://www.ajkerbazzar.com",
+    "title" : "আজকের বাজার"
+  }, {
+    "category" : "অর্থনীতি ও শেয়ার বাজার",
+    "isFeatured" : "no",
+    "siteImage" : "https://i.imgur.com/BsRSOL5.png",
+    "siteUrl" : "http://www.dailystockbangladesh.com",
+    "title" : "স্টক বাংলাদেশ"
+  }, {
+    "category" : "অর্থনীতি ও শেয়ার বাজার",
+    "isFeatured" : "no",
+    "siteImage" : "https://i.imgur.com/u0lDqwT.png",
+    "siteUrl" : "http://corporatenews.com.bd",
+    "title" : "কর্পোরেট নিউজ"
+  }, {
+    "category" : "অর্থনীতি ও শেয়ার বাজার",
+    "isFeatured" : "no",
+    "siteImage" : "https://i.imgur.com/GJZX8pD.png",
+    "siteUrl" : "http://www.corporatesangbad.com",
+    "title" : "কর্পোরেট সংবাদ"
+  }, {
+    "category" : "অর্থনীতি ও শেয়ার বাজার",
+    "isFeatured" : "no",
+    "siteImage" : "https://i.imgur.com/WQFxNiG.png",
+    "siteUrl" : "http://sharebiz.net",
+    "title" : "শেয়ার বিজ"
+  }, {
+    "category" : "অর্থনীতি ও শেয়ার বাজার",
+    "isFeatured" : "no",
+    "siteImage" : "https://i.imgur.com/A2VIyES.png",
+    "siteUrl" : "http://sharenews24.com",
+    "title" : "শেয়ার নিউজ"
+  }, {
+    "category" : "অর্থনীতি ও শেয়ার বাজার",
+    "isFeatured" : "no",
+    "siteImage" : "https://i.imgur.com/tR6wtUy.png",
+    "siteUrl" : "http://pujibazar.com",
+    "title" : "পুঁজিবাজার"
+  }, {
+    "category" : "অর্থনীতি ও শেয়ার বাজার",
+    "isFeatured" : "no",
+    "siteImage" : "https://i.imgur.com/Zs4mfsa.png",
+    "siteUrl" : "http://www.sharemarketbd.com",
+    "title" : "শেয়ার মার্কেট"
+  }, {
+    "category" : "আন্তর্জাতিক গণমাধ্যম",
+    "isFeatured" : "no",
+    "siteImage" : "https://i.imgur.com/EbBDxGS.jpg",
+    "siteUrl" : "https://www.chinadaily.com.cn",
+    "title" : "China Daily"
+  }, {
+    "category" : "আন্তর্জাতিক গণমাধ্যম",
+    "isFeatured" : "no",
+    "siteImage" : "https://i.imgur.com/c7DUYek.png",
+    "siteUrl" : "http://www.dawn.com",
+    "title" : "Dawn"
+  }, {
+    "category" : "আন্তর্জাতিক গণমাধ্যম",
+    "isFeatured" : "no",
+    "siteImage" : "https://i.imgur.com/BMHDw2H.png",
+    "siteUrl" : "http://www.theguardian.com/international",
+    "title" : "The Guardian"
+  }, {
+    "category" : "আন্তর্জাতিক গণমাধ্যম",
+    "isFeatured" : "no",
+    "siteImage" : "https://i.imgur.com/w14q83d.png",
+    "siteUrl" : "http://www.usatoday.com",
+    "title" : "USA Today"
+  }, {
+    "category" : "আন্তর্জাতিক গণমাধ্যম",
+    "isFeatured" : "no",
+    "siteImage" : "https://i.imgur.com/14S8trx.png",
+    "siteUrl" : "http://timesofindia.indiatimes.com",
+    "title" : "Times of India"
+  }, {
+    "category" : "আন্তর্জাতিক গণমাধ্যম",
+    "isFeatured" : "no",
+    "siteImage" : "https://i.imgur.com/vkGf2kh.png",
+    "siteUrl" : "http://www.japantimes.co.jp",
+    "title" : "Japan Times"
+  }, {
+    "category" : "আন্তর্জাতিক গণমাধ্যম",
+    "isFeatured" : "no",
+    "siteImage" : "https://i.imgur.com/FlmIJ3C.png",
+    "siteUrl" : "http://nypost.com",
+    "title" : "New York Post"
+  }, {
+    "category" : "আন্তর্জাতিক গণমাধ্যম",
+    "isFeatured" : "no",
+    "siteImage" : "https://i.imgur.com/uaqW28f.png",
+    "siteUrl" : "http://www.nytimes.com",
+    "title" : "New York Times"
+  }, {
+    "category" : "আন্তর্জাতিক গণমাধ্যম",
+    "isFeatured" : "no",
+    "siteImage" : "https://i.imgur.com/z1mEd9w.png",
+    "siteUrl" : "http://www.telegraph.co.uk",
+    "title" : "The Telegraph"
+  }, {
+    "category" : "আন্তর্জাতিক গণমাধ্যম",
+    "isFeatured" : "no",
+    "siteImage" : "https://i.imgur.com/tdOEWuR.jpg",
+    "siteUrl" : "http://www.washingtonpost.com",
+    "title" : "Washington Post"
+  }, {
+    "category" : "আন্তর্জাতিক গণমাধ্যম",
+    "isFeatured" : "no",
+    "siteImage" : "https://i.imgur.com/KRRnoZc.png",
+    "siteUrl" : "http://www.wsj.com/asia",
+    "title" : "Wall Street Journal"
+  }, {
+    "category" : "আন্তর্জাতিক গণমাধ্যম",
+    "isFeatured" : "no",
+    "siteImage" : "https://i.imgur.com/pEnt0hf.png",
+    "siteUrl" : "http://www.bbc.com/news",
+    "title" : "BBC News"
+  }, {
+    "category" : "আন্তর্জাতিক গণমাধ্যম",
+    "isFeatured" : "no",
+    "siteImage" : "https://i.imgur.com/ZOCLo5C.png",
+    "siteUrl" : "http://edition.cnn.com",
+    "title" : "CNN"
+  }, {
+    "category" : "আন্তর্জাতিক গণমাধ্যম",
+    "isFeatured" : "no",
+    "siteImage" : "https://i.imgur.com/YXsQ5Yw.png",
+    "siteUrl" : "http://www.ndtv.com",
+    "title" : "NDTV"
+  }, {
+    "category" : "আন্তর্জাতিক গণমাধ্যম",
+    "isFeatured" : "no",
+    "siteImage" : "https://i.imgur.com/2S4zmNO.png",
+    "siteUrl" : "http://abcnews.go.com",
+    "title" : "ABC News"
+  }, {
+    "category" : "আন্তর্জাতিক গণমাধ্যম",
+    "isFeatured" : "no",
+    "siteImage" : "https://i.imgur.com/hp5avWv.png",
+    "siteUrl" : "http://www.voanews.com",
+    "title" : "Voice of America"
+  }, {
+    "category" : "আন্তর্জাতিক গণমাধ্যম",
+    "isFeatured" : "no",
+    "siteImage" : "https://i.imgur.com/2LcBUEl.png",
+    "siteUrl" : "http://www.euronews.com",
+    "title" : "Euro News"
+  }, {
+    "category" : "আন্তর্জাতিক গণমাধ্যম",
+    "isFeatured" : "no",
+    "siteImage" : "https://i.imgur.com/O8TZSYz.png",
+    "siteUrl" : "http://www.reuters.com",
+    "title" : "Reuters"
+  }, {
+    "category" : "আন্তর্জাতিক গণমাধ্যম",
+    "isFeatured" : "no",
+    "siteImage" : "https://i.imgur.com/bz7DzTb.png",
+    "siteUrl" : "http://www.foxnews.com",
+    "title" : "Fox News"
+  }, {
+    "category" : "আন্তর্জাতিক গণমাধ্যম",
+    "isFeatured" : "no",
+    "siteImage" : "https://i.imgur.com/aT1QAr1.png",
+    "siteUrl" : "http://www.rt.com",
+    "title" : "Russia Today"
+  }, {
+    "category" : "আন্তর্জাতিক গণমাধ্যম",
+    "isFeatured" : "no",
+    "siteImage" : "https://i.imgur.com/lCBtq5X.png",
+    "siteUrl" : "http://news.sky.com",
+    "title" : "Sky News"
+  }, {
+    "category" : "আন্তর্জাতিক গণমাধ্যম",
+    "isFeatured" : "no",
+    "siteImage" : "https://i.imgur.com/pFgyLHp.png",
+    "siteUrl" : "http://www.theblaze.com",
+    "title" : "The Blaze"
+  }, {
+    "category" : "আন্তর্জাতিক গণমাধ্যম",
+    "isFeatured" : "no",
+    "siteImage" : "https://i.imgur.com/HiD6MAK.png",
+    "siteUrl" : "http://www.nbcnews.com",
+    "title" : "NBC News"
+  }, {
+    "category" : "আন্তর্জাতিক গণমাধ্যম",
+    "isFeatured" : "no",
+    "siteImage" : "https://i.imgur.com/myPnGJa.png",
+    "siteUrl" : "http://www.cbsnews.com",
+    "title" : "CBS News"
+  }, {
+    "category" : "ফিচারড",
+    "isFeatured" : "yes",
+    "siteImage" : "https://i.imgur.com/4Q3yFZP.jpg",
+    "siteUrl" : "https://prothomalo.com/",
+    "title" : "প্রথম আলো"
+  }, {
+    "category" : "ফিচারড",
+    "isFeatured" : "yes",
+    "siteImage" : "https://i.imgur.com/3BYjEWu.png",
+    "siteUrl" : "https://admin.abohoman.com/bd/covid-19/",
+    "title" : "কোভিড-১৯ আপডেট"
+  }, {
+    "category" : "ফিচারড",
+    "isFeatured" : "yes",
+    "siteImage" : "https://i.imgur.com/SulsB9g.png",
+    "siteUrl" : "https://www.channelionline.com/",
+    "title" : "চ্যানেল আই"
+  } ]
 }
