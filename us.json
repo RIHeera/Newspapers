@@ -1,0 +1,1456 @@
+{
+	"categories": [{
+			"imageUrl": "",
+			"title": "News"
+		},
+		{
+			"imageUrl": "",
+			"title": "Entertainment"
+		},
+		{
+			"imageUrl": "",
+			"title": "Military"
+		},
+		{
+			"imageUrl": "",
+			"title": "Law"
+		},
+		{
+			"imageUrl": "",
+			"title": "Business"
+		},
+		{
+			"imageUrl": "",
+			"title": "Fashion"
+		},
+		{
+			"imageUrl": "",
+			"title": "Education"
+		},
+		{
+			"imageUrl": "",
+			"title": "Sports"
+		},
+		{
+			"imageUrl": "",
+			"title": "Health"
+		},
+		{
+			"imageUrl": "",
+			"title": "Bank"
+		},
+		{
+			"imageUrl": "",
+			"title": "Magazine"
+		}
+	],
+	"sites": [{
+			"category": "News",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/News/1.USA_tODAy.png",
+			"siteUrl": "https://www.usatoday.com/",
+			"title": "USA Today"
+		},
+		{
+			"category": "News",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/News/2.The%20wall%20street%20journal.png",
+			"siteUrl": "https://www.wsj.com/",
+			"title": "The Wall Street Journal"
+		},
+		{
+			"category": "News",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/News/3.The%20New%20York%20Times.png",
+			"siteUrl": "https://www.nytimes.com/",
+			"title": "The New York Times"
+		},
+		{
+			"category": "News",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/News/4.los%20angeles%20time.png",
+			"siteUrl": "https://www.latimes.com/",
+			"title": "Los Angeles Times"
+		},
+		{
+			"category": "News",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/News/5.Daily%20News%2C%20New%20York.png",
+			"siteUrl": "https://www.nydailynews.com/",
+			"title": "Daily News"
+		},
+		{
+			"category": "News",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/News/6.%20the%20washington%20post.png",
+			"siteUrl": "https://www.washingtonpost.com/",
+			"title": "The Washington Post"
+		},
+		{
+			"category": "News",
+			"isFeatured": "yes",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/News/7.%20New%20York%20Post.png",
+			"siteUrl": "https://nypost.com/",
+			"title": "New York Post"
+		},
+		{
+			"category": "News",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/News/8.%20Chicago%20Tribune.png",
+			"siteUrl": "https://www.chicagotribune.com/",
+			"title": "Chicago Tribune"
+		},
+		{
+			"category": "News",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/News/9.%20houston%20chronicle.png",
+			"siteUrl": "https://www.chron.com/",
+			"title": "Houston Chronicle"
+		},
+		{
+			"category": "News",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/News/10.%20The%20Dallas%20Morning%20News.png",
+			"siteUrl": "https://www.dallasnews.com/",
+			"title": "The Dallas Morning News"
+		},
+		{
+			"category": "News",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/News/11.%20San%20Francisco%20Chronicle.jpg",
+			"siteUrl": "https://www.sfchronicle.com/",
+			"title": "San Francisco Chronicle"
+		},
+		{
+			"category": "News",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/News/12.%20Newsday%2C%20Long%20Island.png",
+			"siteUrl": "https://www.newsday.com/",
+			"title": "News Day"
+		},
+		{
+			"category": "News",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/News/13.%20The%20Boston%20Globe.png",
+			"siteUrl": "https://www.bostonglobe.com/",
+			"title": "The Boston Globe"
+		},
+		{
+			"category": "News",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/News/14.%20The%20Arizona%20Republic%2C%20Phoenix.png",
+			"siteUrl": "https://www.azcentral.com/",
+			"title": "The Arizona Republic"
+		},
+		{
+			"category": "News",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/News/15.%20Chicago%20Sun-Times.png",
+			"siteUrl": "https://chicago.suntimes.com/",
+			"title": "Chicago Sun-Times"
+		},
+		{
+			"category": "News",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/News/16.%20The%20Star-Ledger%2C%20Newark.png",
+			"siteUrl": " https://www.nj.com/starledger/",
+			"title": "The Star-Ledger"
+		},
+		{
+			"category": "News",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/News/17.%20Atlanta%20Journal-Constitution.png",
+			"siteUrl": " https://www.ajc.com/",
+			"title": "Atlanta News Now"
+		},
+		{
+			"category": "News",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/News/18.%20Star%20Tribune%2C%20Minneapolis.png",
+			"siteUrl": " http://www.startribune.com/",
+			"title": "Star Tribune"
+		},
+		{
+			"category": "News",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/News/19.%20The%20Philadelphia%20Inquire.png",
+			"siteUrl": " https://www.inquirer.com/",
+			"title": "The Philadelphia Inquirer"
+		},
+		{
+			"category": "News",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/News/20.%20The%20Plain%20Dealer%2C%20Cleveland.png",
+			"siteUrl": "https://www.plaindealer.com/",
+			"title": "The Plain Dealer"
+		},
+		{
+			"category": "News",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/News/21.%20Detroit%20Free%20Press.png",
+			"siteUrl": " https://www.freep.com/",
+			"title": "Detroit Free Press"
+		},
+		{
+			"category": "News",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/News/22.%20The%20Oregonian%2C%20Portland.png",
+			"siteUrl": "https://www.oregonlive.com/news/",
+			"title": "The Oregonian"
+		},
+		{
+			"category": "News",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/News/24.%20The%20Miami%20Herald.png",
+			"siteUrl": "https://www.miamiherald.com/",
+			"title": "Miami Herald"
+		},
+		{
+			"category": "News",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/News/25.%20The%20San%20Diego%20Union-Tribune.png",
+			"siteUrl": "https://www.sandiegouniontribune.com/",
+			"title": "The San Diego Union-Tribune"
+		},
+		{
+			"category": "News",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/News/26.%20The%20orange%20country%20register.png",
+			"siteUrl": "https://www.ocregister.com/",
+			"title": "Orange Country Register"
+		},
+		{
+			"category": "News",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/News/27.%20The%20Sacramento%20Bee.png",
+			"siteUrl": "https://www.sacbee.com/",
+			"title": "Northern CA News"
+		},
+		{
+			"category": "News",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/News/28.%20St.%20Louis%20Post-Dispatch.png",
+			"siteUrl": "https://www.stltoday.com/",
+			"title": "St. Louis Post-Dispatch"
+		},
+		{
+			"category": "News",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/News/29.%20The%20Kansas%20City%20Star.png",
+			"siteUrl": "http://www.kansascity.com/",
+			"title": "The Kansas City Star"
+		},
+		{
+			"category": "News",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/News/30.%20The%20Denver%20Pos.png",
+			"siteUrl": "https://www.denverpost.com/",
+			"title": "The Denver Post"
+		},
+		{
+			"category": "News",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/News/31.%20Rocky%20Mountain%20News%2C%20Denver.jpg",
+			"siteUrl": "https://rockymountainnews.com/",
+			"title": "Rocky Mountain News"
+		},
+		{
+			"category": "Entertainment",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Entertainment/1.%20The%20Sun%2C%20Baltimore.png",
+			"siteUrl": "https://www.baltimoresun.com/",
+			"title": "The Baltimore Sun"
+		},
+		{
+			"category": "Entertainment",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Entertainment/2.%20digboston.jpg",
+			"siteUrl": "https://digboston.com/",
+			"title": "Boston News Today"
+		},
+		{
+			"category": "Entertainment",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Entertainment/3.%20chicagomeg.png",
+			"siteUrl": "https://www.chicagomag.com/",
+			"title": "Chicago"
+		},
+		{
+			"category": "Entertainment",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Entertainment/4.%20chicagoreader.png",
+			"siteUrl": "https://www.chicagoreader.com/",
+			"title": "Chicago Reader"
+		},
+		{
+			"category": "Entertainment",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Entertainment/5.%20columbusAlive.png",
+			"siteUrl": "https://www.columbusalive.com/",
+			"title": "Columbus Alive"
+		},
+		{
+			"category": "Entertainment",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Entertainment/6.%20columbusmakesart.png",
+			"siteUrl": "https://www.columbusmakesart.com/",
+			"title": "Art Makes Columbus"
+		},
+		{
+			"category": "Entertainment",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Entertainment/7.%20Westword.png",
+			"siteUrl": "https://www.westword.com/",
+			"title": "Denver Westword"
+		},
+		{
+			"category": "Entertainment",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Entertainment/8.%20mlive.png",
+			"siteUrl": "https://www.mlive.com/",
+			"title": "Michigan Local News"
+		},
+		{
+			"category": "Entertainment",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Entertainment/9.%20metrotimes.png",
+			"siteUrl": "https://www.metrotimes.com/",
+			"title": "Detroit Metro Times"
+		},
+		{
+			"category": "Entertainment",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Entertainment/10.%20elpasotimes.png",
+			"siteUrl": "https://www.elpasotimes.com/entertainment/",
+			"title": "El Paso Times"
+		},
+		{
+			"category": "Entertainment",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Entertainment/11.%20fwweekly.png",
+			"siteUrl": "https://www.fwweekly.com/",
+			"title": "Fort Worth Weekly"
+		},
+		{
+			"category": "Entertainment",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Entertainment/12.%20star-telegram.png",
+			"siteUrl": "https://www.star-telegram.com/",
+			"title": "Fort Worth Star-Telegram"
+		},
+		{
+			"category": "Entertainment",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Entertainment/13.%20houstonchronicle.png",
+			"siteUrl": "https://www.houstonchronicle.com/entertainment/",
+			"title": "Houston Chronicle"
+		},
+		{
+			"category": "Entertainment",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Entertainment/14.%20calendar.haatx.png",
+			"siteUrl": "http://calendar.haatx.com/",
+			"title": "Houston's Cultural Events"
+		},
+		{
+			"category": "Entertainment",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Entertainment/15.%20chron.jpg",
+			"siteUrl": "https://www.chron.com/entertainment/",
+			"title": "Houston Entertainment"
+		},
+		{
+			"category": "Entertainment",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Entertainment/16.%20indyweek.jpg",
+			"siteUrl": "https://indyweek.com/",
+			"title": "INDY Week"
+		},
+		{
+			"category": "Entertainment",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Entertainment/17.%20IBJ.png",
+			"siteUrl": "https://www.ibj.com/topics/arts-entertainment",
+			"title": "Indianpolice Business Journel"
+		},
+		{
+			"category": "Entertainment",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Entertainment/18.%20Nuvo.png",
+			"siteUrl": "https://www.nuvo.net/",
+			"title": "Indy's Voices"
+		},
+		{
+			"category": "Entertainment",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Entertainment/19.%20folio%20weekly.png",
+			"siteUrl": "http://folioweekly.com/",
+			"title": "Folio Weekly"
+		},
+		{
+			"category": "Entertainment",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Entertainment/20.%20eu.jpg",
+			"siteUrl": "https://eujacksonville.com/",
+			"title": "Jacksonville Entertainment"
+		},
+		{
+			"category": "Military",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Military/1.png",
+			"siteUrl": "https://www.stripes.com/news",
+			"title": "Stars And Stripes"
+		},
+		{
+			"category": "Military",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Military/2.png",
+			"siteUrl": "https://www.navytimes.com/",
+			"title": "Navy Time"
+		},
+		{
+			"category": "Military",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Military/3.png",
+			"siteUrl": "https://www.marinecorpstimes.com/",
+			"title": "Marine Times"
+		},
+		{
+			"category": "Military",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Military/4.png",
+			"siteUrl": "https://www.armytimes.com/",
+			"title": "Army Times"
+		},
+		{
+			"category": "Military",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Military/5.png",
+			"siteUrl": "https://www.airforcetimes.com/",
+			"title": "Air Force Times"
+		},
+		{
+			"category": "Military",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Military/6.png",
+			"siteUrl": "https://www.army.mil/ARNEWS",
+			"title": "U.S. Army News Service"
+		},
+		{
+			"category": "Law",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Law/new-york-law-journal-1.png",
+			"siteUrl": "https://www.law.com/newyorklawjournal/?slreturn=20200420065412",
+			"title": "New York Law Journal"
+		},
+		{
+			"category": "Law",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Law/legal-intelligencer-2.png",
+			"siteUrl": "https://www.law.com/thelegalintelligencer/",
+			"title": "The Legal Intelligencer"
+		},
+		{
+			"category": "Law",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Law/national-law-journal_3.png",
+			"siteUrl": "https://www.law.com/nationallawjournal/",
+			"title": "National Law Journal"
+		},
+		{
+			"category": "Law",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Law/connecticut-law-tribune-4.png",
+			"siteUrl": "https://www.law.com/ctlawtribune/",
+			"title": "Connecticut Law Tribune"
+		},
+		{
+			"category": "Law",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Law/new-jersey-law-journal-5.png",
+			"siteUrl": "https://www.law.com/njlawjournal/",
+			"title": "New Jersey Law Journel"
+		},
+		{
+			"category": "News",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/News/Buffalo%20News.png",
+			"siteUrl": "https://buffalonews.com/",
+			"title": "The Buffalo News"
+		},
+		{
+			"category": "News",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/News/Omaha%20World-Herald.png",
+			"siteUrl": "https://www.omaha.com/",
+			"title": "Omaha World-Herald"
+		},
+		{
+			"category": "News",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/News/Hartford%20Courant.png",
+			"siteUrl": "https://www.courant.com/",
+			"title": "Hartford Courant"
+		},
+		{
+			"category": "News",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/News/St.%20Paul%20Pioneer%20Press.png",
+			"siteUrl": "https://www.twincities.com/",
+			"title": "St. Paul News"
+		},
+		{
+			"category": "News",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/News/richmond.png",
+			"siteUrl": "https://www.richmond.com/",
+			"title": "Richmond Times-Dispatch"
+		},
+		{
+			"category": "News",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/News/cincinnati.png",
+			"siteUrl": "https://www.cincinnati.com/",
+			"title": "Cincinnati Enquirer"
+		},
+		{
+			"category": "News",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/News/pe.png",
+			"siteUrl": "https://www.pe.com/",
+			"title": "The Press-Enterprise"
+		},
+		{
+			"category": "News",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/News/eastbaytimes.png",
+			"siteUrl": "https://www.eastbaytimes.com/",
+			"title": "Easy Bay Times"
+		},
+		{
+			"category": "News",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/News/arkansasonline.png",
+			"siteUrl": "https://www.arkansasonline.com/",
+			"title": "The Arkansas Democrat-Gazette"
+		},
+		{
+			"category": "News",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/News/dailynews.png",
+			"siteUrl": "https://www.dailynews.com/",
+			"title": "Los Angeles Daily News"
+		},
+		{
+			"category": "News",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/News/The%20Record%2C%20Hackensack.png",
+			"siteUrl": "https://www.northjersey.com/",
+			"title": "NJ news from Bergen"
+		},
+		{
+			"category": "News",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/News/The%20Tennessean%2C%20Nashville.png",
+			"siteUrl": "https://www.tennessean.com/",
+			"title": "The Tennessean"
+		},
+		{
+			"category": "News",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/News/palmbeachpost.png",
+			"siteUrl": "https://www.palmbeachpost.com/",
+			"title": "The Palm Beach Post"
+		},
+		{
+			"category": "News",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/News/providencejournal.png",
+			"siteUrl": "https://www.providencejournal.com/",
+			"title": "Providence Journal"
+		},
+		{
+			"category": "News",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/News/site-masthead.png",
+			"siteUrl": "https://www.democratandchronicle.com/",
+			"title": "Democrat And Chronicle"
+		},
+		{
+			"category": "News",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/News/jacksonville.png",
+			"siteUrl": "https://www.jacksonville.com/",
+			"title": "The Florida Times"
+		},
+		{
+			"category": "News",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/News/newsobserver.png",
+			"siteUrl": "https://www.newsobserver.com/",
+			"title": "The News And Observer"
+		},
+		{
+			"category": "News",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/News/commercialappeal.png",
+			"siteUrl": "https://www.commercialappeal.com/",
+			"title": "The Commercial Appeal"
+		},
+		{
+			"category": "News",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/News/app.png",
+			"siteUrl": "https://www.app.com/",
+			"title": "Asbury Park Press NJ"
+		},
+		{
+			"category": "Business",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Business/1.png",
+			"siteUrl": "https://www.pilotonline.com/inside-business/",
+			"title": "Inside Business"
+		},
+		{
+			"category": "Business",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Business/2.png",
+			"siteUrl": "https://www.thestandard.com.hk/",
+			"title": "The Standard"
+		},
+		{
+			"category": "Business",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Business/3.png",
+			"siteUrl": "https://msbusiness.com/",
+			"title": "Mississippi Business Journel"
+		},
+		{
+			"category": "Business",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Business/4.png",
+			"siteUrl": "https://www.diepresse.com/wirtschaft",
+			"title": "Wirtschaft"
+		},
+		{
+			"category": "Sports",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Sports/1-kent%20county%20news.png",
+			"siteUrl": "https://www.myeasternshoremd.com/kent_county_news/",
+			"title": "Kent County News"
+		},
+		{
+			"category": "Sports",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Sports/2-courier%20journal.png",
+			"siteUrl": "https://www.courier-journal.com/sports/",
+			"title": "Courier Journal"
+		},
+		{
+			"category": "Sports",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Sports/3-detroitnews.png",
+			"siteUrl": "https://www.detroitnews.com/sports/",
+			"title": "Detroitnews"
+		},
+		{
+			"category": "Sports",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Sports/4-jornaldossports.png",
+			"siteUrl": "https://jornaldossportsusa.com/",
+			"title": "Jornal Dos Sports"
+		},
+		{
+			"category": "Sports",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Sports/5-skybet.png",
+			"siteUrl": "http://www.skybet.com/",
+			"title": "Sky Bet"
+		},
+		{
+			"category": "Sports",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Sports/6-providence%20journal.png",
+			"siteUrl": "https://www.providencejournal.com/",
+			"title": "Providence Journal"
+		},
+		{
+			"category": "Sports",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Sports/7-The%20boston%20globe.png",
+			"siteUrl": "https://www.bostonglobe.com/",
+			"title": "The Boston Globe"
+		},
+		{
+			"category": "Sports",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Sports/8-The%20berkshire%20eagle.png",
+			"siteUrl": "https://www.berkshireeagle.com/",
+			"title": "The Berkshire eagle"
+		},
+		{
+			"category": "Sports",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Sports/9-Observer-Dispatch.png",
+			"siteUrl": "https://www.uticaod.com/",
+			"title": "Observer-Dispatch"
+		},
+		{
+			"category": "Sports",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Sports/10-st.louis%20post-dispatch.png",
+			"siteUrl": "https://www.stltoday.com/",
+			"title": "st.louis post-dispatch"
+		},
+		{
+			"category": "Sports",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Sports/11-usa%20today.png",
+			"siteUrl": "https://www.usatoday.com/sports/",
+			"title": "Usa Today"
+		},
+		{
+			"category": "Sports",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Sports/12-washington%20post.png",
+			"siteUrl": "https://nie.washingtonpost.com/node/283",
+			"title": "Washington Post"
+		},
+		{
+			"category": "Sports",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Sports/13-the%20guardian.png",
+			"siteUrl": "https://www.theguardian.com/sport/us-sport",
+			"title": "The Guardian"
+		},
+		{
+			"category": "Sports",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Sports/14-us%20news.png",
+			"siteUrl": "https://www.usnews.com/news/sports",
+			"title": "Us News"
+		},
+		{
+			"category": "Sports",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Sports/15-fox%20sports.png",
+			"siteUrl": "https://www.foxsports.com/",
+			"title": "Fox Sports"
+		},
+		{
+			"category": "Business",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Business/1-wsj.png",
+			"siteUrl": "https://www.wsj.com/",
+			"title": "The Wall Street Journal"
+		},
+		{
+			"category": "Business",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Business/2-investors%20business%20daily.png",
+			"siteUrl": "https://www.investors.com/",
+			"title": "Investors Business Daily"
+		},
+		{
+			"category": "Business",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Business/3-pilot%20online.png",
+			"siteUrl": "https://www.pilotonline.com/inside-business/",
+			"title": "Pilot Online"
+		},
+		{
+			"category": "Business",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Business/4-miami%20today%20news.png",
+			"siteUrl": "https://www.miamitodaynews.com/",
+			"title": "Miami Today News"
+		},
+		{
+			"category": "Business",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Business/5-edition.cnn.png",
+			"siteUrl": "https://edition.cnn.com/business",
+			"title": "Edition.cnn"
+		},
+		{
+			"category": "Business",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Business/6-daily%20journal%20of%20commerce.png",
+			"siteUrl": "https://www.djc.com/",
+			"title": "Daily Journal Of Commerce"
+		},
+		{
+			"category": "Business",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Business/7-forbes.png",
+			"siteUrl": "https://www.forbes.com/",
+			"title": "Forbes"
+		},
+		{
+			"category": "Business",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Business/8-finance%26commerce.png",
+			"siteUrl": "http://finance-commerce.com/",
+			"title": "finance&commerce"
+		},
+		{
+			"category": "Business",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Business/9-the%20economist.png",
+			"siteUrl": "https://www.economist.com/",
+			"title": "The Economist"
+		},
+		{
+			"category": "Business",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Business/10-joc.png",
+			"siteUrl": "https://www.joc.com/",
+			"title": "Joc"
+		},
+		{
+			"category": "Business",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Business/11-havard%20business%20review.png",
+			"siteUrl": "https://hbr.org/",
+			"title": "Havard business review"
+		},
+		{
+			"category": "Business",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Business/12-big%20sky%20business%20journal.png",
+			"siteUrl": "http://www.bigskybusinessjournal.com/",
+			"title": "Big Sky Business Journal"
+		},
+		{
+			"category": "Business",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Business/13-thebusinessfarmer.png",
+			"siteUrl": "https://thebusinessfarmer.com/",
+			"title": "The Business Farmer"
+		},
+		{
+			"category": "Business",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Business/14-The%20business%20journals.png",
+			"siteUrl": "https://www.bizjournals.com/columbus/",
+			"title": "The business journals"
+		},
+		{
+			"category": "Business",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Business/15-businessinsider.png",
+			"siteUrl": "https://www.businessinsider.com/",
+			"title": "Business Insider"
+		},
+		{
+			"category": "Business",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Business/16-business%20news%20daily.png",
+			"siteUrl": "https://www.businessnewsdaily.com/",
+			"title": "Business News Daily"
+		},
+		{
+			"category": "Business",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Business/17-business%20observer.png",
+			"siteUrl": "https://www.businessobserverfl.com/",
+			"title": "Business Observer"
+		},
+		{
+			"category": "Business",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Business/18-arkansas%20business.png",
+			"siteUrl": "https://www.arkansasbusiness.com/",
+			"title": "Arkansas Business"
+		},
+		{
+			"category": "Business",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Business/19-bloomberg%20news.png",
+			"siteUrl": "https://www.bloomberg.com/businessweek",
+			"title": "Bloomberg News"
+		},
+		{
+			"category": "Business",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Business/20%20chicago%20business%20journal.png",
+			"siteUrl": "https://www.chicagobusiness.com/",
+			"title": "Chicago Business Journal"
+		},
+		{
+			"category": "Business",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Business/21-fox%20business.png",
+			"siteUrl": "https://www.foxbusiness.com/",
+			"title": "Fox Business"
+		},
+		{
+			"category": "Business",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Business/22-business%20lexington.png",
+			"siteUrl": "https://smileypete.com/business",
+			"title": "Business Lexington"
+		},
+		{
+			"category": "Business",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Business/23-chicago%20tribune.png",
+			"siteUrl": "https://www.chicagotribune.com/business/",
+			"title": "Chicago Tribune"
+		},
+		{
+			"category": "Business",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Business/24-fast%20company.png",
+			"siteUrl": "https://www.fastcompany.com/",
+			"title": "Fast Company"
+		},
+		{
+			"category": "Business",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Business/25-fortune.png",
+			"siteUrl": "https://fortune.com/",
+			"title": "Fortune"
+		},
+		{
+			"category": "Education",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Education/1-yale%20daily%20news.png",
+			"siteUrl": "https://yaledailynews.com/",
+			"title": "Yale Daily News"
+		},
+		{
+			"category": "Education",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Education/2-The%20daily%20orange.png",
+			"siteUrl": "http://dailyorange.com/",
+			"title": "The Daily Orange"
+		},
+		{
+			"category": "Education",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Education/3-The%20cornell%20daily%20sun.png",
+			"siteUrl": "https://cornellsun.com/",
+			"title": "The Cornell Daily Sun"
+		},
+		{
+			"category": "Education",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Education/4-daily%20bruin.png",
+			"siteUrl": "https://dailybruin.com/",
+			"title": "Daily Bruin"
+		},
+		{
+			"category": "Education",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Education/5-loyola%20maroon.png",
+			"siteUrl": "https://loyolamaroon.com/",
+			"title": "Loyola Maroon"
+		},
+		{
+			"category": "Education",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Education/6-Daily%20collegian.png",
+			"siteUrl": "https://www.collegian.psu.edu/",
+			"title": "Daily Collegian"
+		},
+		{
+			"category": "Education",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Education/7-The%20daily%20tar%20heel.png",
+			"siteUrl": "https://www.dailytarheel.com/",
+			"title": "The Daily Tar Heel"
+		},
+		{
+			"category": "Education",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Education/8-he%20badger%20herald.png",
+			"siteUrl": "https://badgerherald.com/",
+			"title": "The Badgerherald"
+		},
+		{
+			"category": "Education",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Education/9-The%20university%20daily%20kansan.png",
+			"siteUrl": "http://www.kansan.com/",
+			"title": "The University Daily Kansan"
+		},
+		{
+			"category": "Education",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Education/10-The%20Daily%20Gamecock.png",
+			"siteUrl": "https://www.dailygamecock.com/",
+			"title": "The Daily Game Cock"
+		},
+		{
+			"category": "Education",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Education/11-The%20Wagnerian.png",
+			"siteUrl": "https://wagner.edu/english/the-wagnerian/",
+			"title": "The Wagner"
+		},
+		{
+			"category": "Education",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Education/12-The%20Bona%20Venture.png",
+			"siteUrl": "http://www.thebvnewspaper.com/",
+			"title": "The Bona Venture"
+		},
+		{
+			"category": "Education",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Education/13-The%20Hilltop.png",
+			"siteUrl": "http://thehilltoponline.com/",
+			"title": "The Hilltop"
+		},
+		{
+			"category": "Education",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Education/14-The%20Heights.png",
+			"siteUrl": "https://bcheights.com/",
+			"title": "The Heights"
+		},
+		{
+			"category": "Education",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Education/15-The%20Vermont%20Cynic.png",
+			"siteUrl": "https://vtcynic.com/",
+			"title": "The Vermont Cynic"
+		},
+		{
+			"category": "Education",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Education/16-The%20Daily%20Iowan.png",
+			"siteUrl": "https://dailyiowan.com/",
+			"title": "The Daily Iowan"
+		},
+		{
+			"category": "Education",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Education/17-The%20Lantern.png",
+			"siteUrl": "https://www.thelantern.com/",
+			"title": "The Lantern"
+		},
+		{
+			"category": "Education",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Education/18-The%20Minaret.png",
+			"siteUrl": "https://theminaretonline.com/",
+			"title": "The Minaret"
+		},
+		{
+			"category": "Education",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Education/19-The%20Colorado%20Daily.png",
+			"siteUrl": "https://www.coloradodaily.com/",
+			"title": "The Colorado Daily"
+		},
+		{
+			"category": "Education",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Education/20-The%20Chronicle.png",
+			"siteUrl": "https://www.dukechronicle.com/",
+			"title": "The Chronicle"
+		},
+		{
+			"category": "Education",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Education/21-The%20Daily%20Californian.png",
+			"siteUrl": "https://www.dailycal.org/",
+			"title": "The Daily Californian"
+		},
+		{
+			"category": "Education",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Education/22-The%20Daily%20Texan.png",
+			"siteUrl": "https://thedailytexan.com/",
+			"title": "The Daily Texan"
+		},
+		{
+			"category": "Education",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Education/23-The%20Brown%20Daily%20Herald.png",
+			"siteUrl": "https://www.browndailyherald.com/",
+			"title": "The Brown Daily Herald"
+		},
+		{
+			"category": "Education",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Education/24-The%20Daily%20Pennsylvanian.png",
+			"siteUrl": "https://www.thedp.com/",
+			"title": "The Daily Pennsylvanian"
+		},
+		{
+			"category": "Education",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Education/25-The%20Stanford%20Daily.png",
+			"siteUrl": "https://www.stanforddaily.com/",
+			"title": "The Stanford Daily"
+		},
+		{
+			"category": "Education",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Education/26-The%20Tech%20Online%20Edition.png",
+			"siteUrl": "http://tech.mit.edu/",
+			"title": "The Tech Online Edition"
+		},
+		{
+			"category": "Education",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Education/27-The%20Michigan%20Daily.png",
+			"siteUrl": "https://www.michigandaily.com/",
+			"title": "The Michigan Daily"
+		},
+		{
+			"category": "Education",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Education/28-The%20Columbia%20Spectator.png",
+			"siteUrl": "https://www.columbiaspectator.com/",
+			"title": "The Columbia Spectator"
+		},
+		{
+			"category": "Education",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Education/29-The%20Harvard%20Crimson.png",
+			"siteUrl": "https://www.thecrimson.com/",
+			"title": "The Harvard Crimson"
+		},
+		{
+			"category": "Education",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Education/30-The%20Daily.png",
+			"siteUrl": "http://www.dailyuw.com/",
+			"title": "The Daily"
+		},
+		{
+			"category": "Fashion",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Fashion/1-Airows.png",
+			"siteUrl": "https://airows.com/",
+			"title": "Airows"
+		},
+		{
+			"category": "Fashion",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Fashion/2-Allure.png",
+			"siteUrl": "https://www.allure.com/",
+			"title": "Allure"
+		},
+
+		{
+			"category": "Fashion",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Fashion/3-BYRDIE.png",
+			"siteUrl": "https://www.byrdie.com/",
+			"title": "BYRDIE"
+		},
+
+		{
+			"category": "Fashion",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Fashion/4-MakeupAlley.png",
+			"siteUrl": "https://www.makeupalley.com/",
+			"title": "MakeupAlley"
+		},
+
+		{
+			"category": "Fashion",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Fashion/5-marie%20claire.png",
+			"siteUrl": "https://www.marieclaire.com/",
+			"title": "marie claire"
+		},
+
+		{
+			"category": "Fashion",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Fashion/6-Robb%20Report.png",
+			"siteUrl": "https://robbreport.com/",
+			"title": "Robb Report"
+		},
+
+		{
+			"category": "Fashion",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Fashion/7-WHO%20WHAT%20WEAR.png",
+			"siteUrl": "https://www.whowhatwear.com/",
+			"title": "WHO WHAT WEAR"
+		},
+
+		{
+			"category": "Fashion",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Fashion/8-temptalia.png",
+			"siteUrl": "https://www.temptalia.com/",
+			"title": "temptalia"
+		},
+
+		{
+			"category": "Fashion",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Fashion/9-Pure%20Wow.png",
+			"siteUrl": "https://www.purewow.com/",
+			"title": "Pure Wow"
+		},
+
+		{
+			"category": "Fashion",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Fashion/10-naturally%20curly.png",
+			"siteUrl": "https://www.naturallycurly.com/",
+			"title": "naturally curly"
+		},
+		{
+			"category": "Health",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Health/1.%20medical%20xpress.png",
+			"siteUrl": "www.medicalxpress.com/",
+			"title": "Medical Xpress"
+		},
+		{
+			"category": "Health",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Health/2.%20Medical%20News%20Today.png",
+			"siteUrl": "https://www.medicalnewstoday.com/",
+			"title": "Medical News Today"
+		},
+		{
+			"category": "Health",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Health/3.Modern%20Health%20Care.png",
+			"siteUrl": "https://www.modernhealthcare.com/",
+			"title": "Modern Health Care"
+		},
+		{
+			"category": "Health",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Health/4.%20Alliance%20Chicago.png",
+			"siteUrl": "https://alliancechicago.org/",
+			"title": "Alliance Chicago"
+		},
+		{
+			"category": "Health",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Health/5.%20News%20Medical.png",
+			"siteUrl": "https://www.news-medical.net/",
+			"title": "Medical News"
+		},
+		{
+			"category": "Health",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Health/6.%20The%20Nations%20Health.png",
+			"siteUrl": "http://thenationshealth.aphapublications.org/",
+			"title": "The Nation's Health"
+		},
+		{
+			"category": "Health",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Health/7.%20The%20BMJ.jpg",
+			"siteUrl": "www.bmj.com/",
+			"title": "The BMJ Journals"
+		},
+		{
+			"category": "Health",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Health/8.%20US.News.png",
+			"siteUrl": "https://health.usnews.com/",
+			"title": "US.News"
+		},
+		{
+			"category": "Health",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Health/9.Healthcareit.png",
+			"siteUrl": "https://www.healthcareitnews.com/",
+			"title": "Health Care It News"
+		},
+		{
+			"category": "Health",
+			"isFeatured": "no",
+			"siteImage": " https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Health/10.Health-News-Illinois.png",
+			"siteUrl": "https://healthnewsillinois.com/",
+			"title": "Health Newsillinois"
+		},
+		{
+			"category": "Bank",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Bank/1.%20Financial%20Times.png",
+			"siteUrl": "https://www.ft.com/",
+			"title": "Financial Times"
+		},
+		{
+			"category": "Bank",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Bank/2.%20American%20Banker.png",
+			"siteUrl": "https://www.americanbanker.com/",
+			"title": "American Banker"
+		},
+		{
+			"category": "Bank",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Bank/3.%20cut%20bank%20pioneer%20press.png",
+			"siteUrl": "http://www.cutbankpioneerpress.com/cut_bank_pioneer_press/",
+			"title": "Cut Bank Pioneer Press"
+		},
+		{
+			"category": "Magazine",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Magzine/1.%20National%20Geographic.png",
+			"siteUrl": "https://www.nationalgeographic.com/ ",
+			"title": "National Geographic"
+		},
+		{
+			"category": "Magazine",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Magzine/2.%20Better-Homes-Gardens.png",
+			"siteUrl": "https://www.bhg.com/",
+			"title": "Better Homes And Gardens"
+		},
+		{
+			"category": "Magazine",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Magzine/3.%20Us%20Weekly.png",
+			"siteUrl": "https://www.usmagazine.com/",
+			"title": "Us Weekly"
+		},
+		{
+			"category": "Magazine",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Magzine/4.People.png",
+			"siteUrl": "https://people.com/",
+			"title": "People"
+		},
+		{
+			"category": "Magazine",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Magzine/5.png",
+			"siteUrl": "https://www.goodhousekeeping.com/",
+			"title": "Good Housekeeping"
+		},
+		{
+			"category": "Magazine",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Magzine/6..png",
+			"siteUrl": "ttps://time.com/",
+			"title": "Time Magzine"
+		},
+		{
+			"category": "Magazine",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Magzine/7..jpg",
+			"siteUrl": "https://ew.com/",
+			"title": "Entertainment Weekly"
+		},
+		{
+			"category": "Magazine",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Magzine/8..png",
+			"siteUrl": "https://www.womansday.com/",
+			"title": "Woman's Day"
+		},
+		{
+			"category": "Magazine",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Magzine/9..png",
+			"siteUrl": "https://www.marthastewart.com/",
+			"title": "Martha Stewart Living"
+		},
+		{
+			"category": "Magazine",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Magzine/10..png",
+			"siteUrl": "https://www.vanityfair.com/",
+			"title": "Vanity Fair"
+		},
+		{
+			"category": "Magazine",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Magzine/11..png",
+			"siteUrl": "https://www.newyorker.com/",
+			"title": "The New Yorker"
+		},
+		{
+			"category": "Magazine",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Magzine/12..png",
+			"siteUrl": "https://www.gameinformer.com/",
+			"title": "Game Informer"
+		},
+		{
+			"category": "Magazine",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Magzine/13..jpg",
+			"siteUrl": "https://www.bloomberg.com/businessweek",
+			"title": "Bloomberg Businessweek"
+		},
+		{
+			"category": "Magazine",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Magzine/14..png",
+			"siteUrl": "https://www.southernliving.com/",
+			"title": "Southern Living"
+		},
+		{
+			"category": "Magazine",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Magzine/15..png",
+			"siteUrl": "https://www.rollingstone.com/",
+			"title": "Rolling Stone"
+		},
+		{
+			"category": "Magazine",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Magzine/16..png",
+			"siteUrl": "https://www.popsci.com/",
+			"title": "Popular Science"
+		},
+		{
+			"category": "Magazine",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Magzine/17..png",
+			"siteUrl": "https://www.caranddriver.com/",
+			"title": "Car and Driver"
+		},
+		{
+			"category": "Magazine",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Magzine/18..png",
+			"siteUrl": "https://www.realsimple.com/",
+			"title": "Real Simple"
+		},
+		{
+			"category": "Magazine",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Magzine/19..png",
+			"siteUrl": "https://www.popularmechanics.com/",
+			"title": "Popular Mechanics"
+		},
+		{
+			"category": "Magazine",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Magzine/20..png",
+			"siteUrl": "https://www.aarp.org/magazine/",
+			"title": "AARP The Magazine"
+		},
+		{
+			"category": "Magazine",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Magzine/21..png",
+			"siteUrl": "https://www.instyle.com/",
+			"title": "InStyle"
+		},
+		{
+			"category": "Magazine",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Magzine/22..png",
+			"siteUrl": "http://www.oprah.com/app/o-magazine.html",
+			"title": "O, The Oprah Magazine"
+		},
+		{
+			"category": "Magazine",
+			"isFeatured": "no",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Magzine/23..png",
+			"siteUrl": "https://www.tvguide.com/",
+			"title": "TV Guide"
+		}
+	]
+}
