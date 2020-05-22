@@ -1231,7 +1231,7 @@
 		{
 			"category": "Health",
 			"isFeatured": "no",
-			"siteImage": "",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Health/News_Medical.png",
 			"siteUrl": "https://www.news-medical.net/",
 			"title": "Medical News"
 		},
