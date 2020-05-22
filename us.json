@@ -47,7 +47,7 @@
 	"sites": [{
 			"category": "News",
 			"isFeatured": "no",
-			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/News/1.USA_tODAy.png",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/News/usatoday.png",
 			"siteUrl": "https://www.usatoday.com/",
 			"title": "USA Today"
 		},
