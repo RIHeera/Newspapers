@@ -1,46 +1,46 @@
 {
 	"categories": [{
-			"imageUrl": "",
+			"imageUrl": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/banner.jpg",
 			"title": "News"
 		},
 		{
-			"imageUrl": "",
+			"imageUrl": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/banner.jpg",
 			"title": "Entertainment"
 		},
 		{
-			"imageUrl": "",
+			"imageUrl": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/banner.jpg",
 			"title": "Military"
 		},
 		{
-			"imageUrl": "",
+			"imageUrl": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/banner.jpg",
 			"title": "Law"
 		},
 		{
-			"imageUrl": "",
+			"imageUrl": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/banner.jpg",
 			"title": "Business"
 		},
 		{
-			"imageUrl": "",
+			"imageUrl": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/banner.jpg",
 			"title": "Fashion"
 		},
 		{
-			"imageUrl": "",
+			"imageUrl": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/banner.jpg",
 			"title": "Education"
 		},
 		{
-			"imageUrl": "",
+			"imageUrl": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/banner.jpg",
 			"title": "Sports"
 		},
 		{
-			"imageUrl": "",
+			"imageUrl": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/banner.jpg",
 			"title": "Health"
 		},
 		{
-			"imageUrl": "",
+			"imageUrl": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/banner.jpg",
 			"title": "Bank"
 		},
 		{
-			"imageUrl": "",
+			"imageUrl": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/banner.jpg",
 			"title": "Magazine"
 		}
 	],
