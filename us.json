@@ -705,9 +705,9 @@
 		{
 			"category": "Sports",
 			"isFeatured": "no",
-			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Sports/11-usa%20today.png",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/News/usatoday.png",
 			"siteUrl": "https://www.usatoday.com/sports/",
-			"title": "Usa Today"
+			"title": "Usa Today Sports"
 		},
 		{
 			"category": "Sports",
