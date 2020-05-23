@@ -60,8 +60,8 @@
 		},
 		{
 			"category": "News",
-			"isFeatured": "no",
-			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/News/3.The%20New%20York%20Times.png",
+			"isFeatured": "yes",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/News/New-York-Times.png",
 			"siteUrl": "https://www.nytimes.com/",
 			"title": "The New York Times"
 		},
