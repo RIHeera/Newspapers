@@ -663,7 +663,7 @@
 		{
 			"category": "Sports",
 			"isFeatured": "no",
-			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Sports/5-skybet.png",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Sports/skybet.jpg",
 			"siteUrl": "http://www.skybet.com/",
 			"title": "Sky Bet"
 		},
@@ -1111,7 +1111,7 @@
 		{
 			"category": "Education",
 			"isFeatured": "no",
-			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Education/29-The%20Harvard%20Crimson.png",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Education/harvard.png",
 			"siteUrl": "https://www.thecrimson.com/",
 			"title": "The Harvard Crimson"
 		},
