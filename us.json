@@ -915,7 +915,7 @@
 		{
 			"category": "Education",
 			"isFeatured": "no",
-			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Education/1-yale%20daily%20news.png",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Education/yale.png",
 			"siteUrl": "https://yaledailynews.com/",
 			"title": "Yale Daily News"
 		},
@@ -1041,7 +1041,7 @@
 		{
 			"category": "Education",
 			"isFeatured": "no",
-			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Education/19-The%20Colorado%20Daily.png",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Education/ColoradoDaily.png",
 			"siteUrl": "https://www.coloradodaily.com/",
 			"title": "The Colorado Daily"
 		},
