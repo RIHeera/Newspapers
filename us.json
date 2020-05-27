@@ -497,14 +497,14 @@
 			"isFeatured": "no",
 			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/News/St.%20Paul%20Pioneer%20Press.png",
 			"siteUrl": "https://www.twincities.com/",
-			"title": "St. Paul News"
+			"title": "Twin Cities"
 		},
 		{
 			"category": "News",
 			"isFeatured": "no",
 			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/News/richmond.png",
 			"siteUrl": "https://www.richmond.com/",
-			"title": "Richmond Times-Dispatch"
+			"title": "Richmond Times"
 		},
 		{
 			"category": "News",
