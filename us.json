@@ -453,7 +453,7 @@
 		{
 			"category": "Law",
 			"isFeatured": "no",
-			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Law/nationallaw.jpg",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Law/nationallaw.png",
 			"siteUrl": "https://www.law.com/nationallawjournal/",
 			"title": "National Law Journal"
 		},
@@ -467,7 +467,7 @@
 		{
 			"category": "Law",
 			"isFeatured": "no",
-			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Law/newjercylaw.jpg",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Law/newjercylaw.png",
 			"siteUrl": "https://www.law.com/njlawjournal/",
 			"title": "New Jersey Law Journel"
 		},
