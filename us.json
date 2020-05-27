@@ -1336,7 +1336,7 @@
 		{
 			"category": "Magazine",
 			"isFeatured": "no",
-			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Magzine/7..jpg",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Magzine/entertainment.png",
 			"siteUrl": "https://ew.com/",
 			"title": "Entertainment Weekly"
 		},
@@ -1350,7 +1350,7 @@
 		{
 			"category": "Magazine",
 			"isFeatured": "no",
-			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Magzine/9..png",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Magzine/martha.jpg",
 			"siteUrl": "https://www.marthastewart.com/",
 			"title": "Martha Stewart Living"
 		},
@@ -1378,7 +1378,7 @@
 		{
 			"category": "Magazine",
 			"isFeatured": "no",
-			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Magzine/13..jpg",
+			"siteImage": "https://raw.githubusercontent.com/RIHeera/Newspapers/master/USNewspapers/Magzine/bloomberg.png",
 			"siteUrl": "https://www.bloomberg.com/businessweek",
 			"title": "Bloomberg Businessweek"
 		},
